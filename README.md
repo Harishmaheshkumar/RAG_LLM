@@ -143,7 +143,7 @@ os.getenv("GOOGLE_API_KEY")
 
 ## 👨‍💻 Author
 
-Your Name
+Harish Maheshkumar 
 
 ---
 
